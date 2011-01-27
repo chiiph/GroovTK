@@ -1,0 +1,13 @@
+GroovTK
+
+Just a super ultra minimal web browser that opens grooveshark.
+Nothing fancy, I'm just tired of the most famous web browsers, 
+you have to reload everything once a day because something always
+dies (like flash in GNU/Linux). So I wanted to have this one 
+separated.
+
+License
+
+Everything is under GPLv2, but it's not like it's really hard code
+to do. Just merge a gtk basic tutorial with the code snippet in 
+WebKitWebView's documentation page and you are done.
